@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adelmohammed.
+- 👋 Hi, I’m Adil Mohammed.
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data Analytycs
 - 💞️ I’m looking to collaborate on ...
